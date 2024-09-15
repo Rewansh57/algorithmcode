@@ -1,3 +1,7 @@
+
+// has a time complexity of o(logn) and is efficient for large datasets
+// In this half array is eliminated and each step 
+
 import java.util.Scanner;
 
 public class Main{
